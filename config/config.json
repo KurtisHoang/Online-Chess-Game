@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "admin",
-    "password": "RLa2OAk0bCqzlweqFUH1",
-    "database": "online-chess-game",
-    "host": "csc648-team03.cnzsqesnuc2l.us-east-2.rds.amazonaws.com",
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
     "dialect": "mysql"
   }
 }

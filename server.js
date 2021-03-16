@@ -72,3 +72,4 @@ server.listen(app.get('port'), function () {
 });
 
 module.exports = app;
+module.exports = {}
